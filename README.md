@@ -14,24 +14,10 @@
 <body>
   <div class="wrapper" id="wrapper">
     <header>
-      <div class="banner row" id="banner">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 noPadd slides-container" style="height:100%">
-          <div class="slide">
-            <img src="images/header-image/header-bg1.jpg" width="1024" height="682">
-          </div>
-          <div class="slide">
-            <img src="images/header-image/header-bg2.jpg" width="1024" height="682">
-          </div>
-          <div class="slide">
-            <img src="images/header-image/header-bg3.jpg" width="1024" height="682">
-          </div>
-          <div class="slide">
-            <img src="images/header-image/header-bg4.jpg" width="1024" height="682">
-          </div>
-        </div>
+     
         <div class="bannerText container">
-          <h1>我叫codytang(唐泽雄)</h1>
-          <p>Web前端开发工程师，毕业于中山大学，2017.03.07~至今在腾讯IEG游戏平台部工作。</p>
+          <h1>我叫何庆佳</h1>
+          <p>Web就读于湖南工商大学北津学院</p>
           <a href="#aboutme" class="mbnt">关于我</a>
         </div>
       </div>
