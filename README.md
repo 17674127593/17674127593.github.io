@@ -78,8 +78,6 @@
     <section class="technical" id="technical">
       <div class="container">
         <div class="heading">
-          <h2 id="technical_title">技能</h2>
-          <p>前端开发需要一个持续和长期的学习，需要在各种领域都有充足的知识储备，需要对新技术的学习保持热情。前端开发工程师技术栈中最重要的就是原生JavaScript，《JavaScript高级编程》和《Javascript权威指南》都通读了几遍，最近重新拜读《JavaScript语言精粹》一书。</p>
         </div>
           <h2>联系我</h2>
         </div>
