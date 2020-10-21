@@ -17,7 +17,7 @@
      
         <div class="bannerText container">
           <h1>我叫何庆佳</h1>
-          <p>Web就读于湖南工商大学北津学院</p>
+          <p>就读于湖南工商大学北津学院</p>
           <a href="#aboutme" class="mbnt">关于我</a>
         </div>
       </div>
@@ -44,15 +44,6 @@
                         <a href="#aboutme">关于我</a>
                       </li>
                       <li class="menuItem">
-                        <a href="#technical">技能</a>
-                      </li>
-                      <li class="menuItem">
-                        <a href="#exprience">经历</a>
-                      </li>
-                      <li class="menuItem">
-                        <a href="#reffernces">项目</a>
-                      </li>
-                      <li class="menuItem">
                         <a href="#contact">联系我</a>
                       </li>
                     </ul>
@@ -73,7 +64,7 @@
             </div>
             <div id="description">
               <p>
-                我是来自深圳的前端开发工程师，2014年的中山大学软件工程本科毕业生，2014年4月份开始第一份前端开发工作，至今已经有两年多前端开发经验。
+                我是来自湖南工商大学北津学院信息与计算科学的应届毕业生。
               </p>
               <p>
                 有着坚实的前端开发基础，并且一直保持对新技术的学习热情。熟练使用HTML5、CSS3以及JavaScript(jQuery,Zepto)；对流行的前端开发框架，比如Bootstrap3和Foundation5都有实际开发项目；能熟练使用前端开发工具，比如Gulp.js、Seajs、WebPack和Less等等；学习了AngularJS和React，但更加喜欢轻巧、高性能、可组件化的MVVM框架Vue.js，并在实际的开发项目中使用；学习了Node.js(Express)、ECMAScript6，MongoDB等技术，希望在往后的开发项目中得到实践提升。这里是 <a href="https://github.com/cody1991/learn">自己的前端开发记录</a> 。后面也有新的前端开发实习生加入团队，锻炼了一定的管理能力。
@@ -248,169 +239,6 @@
     <section class="exprience" id="exprience">
       <div class="container">
         <div class="heading">
-          <h2>经历</h2>
-          <p>2014年6月，毕业于中山大学，2014年4月开始了自己的前端开发工程师生涯。第一家的时候自己还是一个职场新人，主要是在实际项目中不断学习，提升自己的前端开发技能和经验。第二家的时候自己作为公司唯一的一个前端开发工程师，负责公司所有前端开发任务，其后有个前端开发实习生加入团队，在一边认真有质量地完成公司任务以为，带领实习生一起进行学习。</p>
-        </div>
-        <div class="row workDetails">
-          <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
-            <div class="workYear">
-              <span class="prevY">03,2017</span>
-              <span class="afterY">至今</span>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
-            <div class="arrowpart"></div>
-            <div class="exCon">
-              <h4>腾讯科技（深圳）有限公司</h4>
-              <h5>前端开发工程师</h5>
-              <p>待续...</p>
-            </div>
-          </div>
-        </div>
-        <div class="row workDetails">
-          <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
-            <div class="workYear">
-              <span class="prevY">10,2016</span>
-              <span class="afterY">4,2015</span>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
-            <div class="arrowpart"></div>
-            <div class="exCon">
-              <h4>深圳市暖柚科技有限公司</h4>
-              <h5>前端开发工程师</h5>
-              <p>这段时间是自己前端开发技能得到不少提高的阶段。自己是公司的第一个前端，公司的官网、日常的运营页面、管理后台的页面优化、APP内的webview页面、手机端的活动页面、视频直播页面、游戏等等都是自己一个人来完成。工作非常饱和，但是在闲暇时候抽空学了很多新的框架和库，对AngularJS和React有了一定的了解，而选择了轻巧、高性能、可组件化的Vue.js作为主攻的MVVM框架，开始涉及WebPack，ECMAScript6，Node.js(Express)等的学习，熟练使用npm、Bower、Gulp.js等工具,并且在自己的一个GitHub项目 <a href="https://github.com/cody1991/learn">learn</a> 中可以看到我长期保持着对最新技术的学习热度。</p>
-            </div>
-          </div>
-        </div>
-        <div class="row workDetails">
-          <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
-            <div class="workYear">
-              <span class="prevY">12,2014</span>
-              <span class="afterY">04,2014</span>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
-            <div class="arrowpart"></div>
-            <div class="exCon">
-              <h4>精准分众传媒有限公司</h4>
-              <h5>移动前端开发工程师</h5>
-              <p>日常工作围绕移动前端页面的制作，开发公司的后台页面，官网以及一些PC端的活动和页面。业余时间，积极学习和掌握了非常多的技术，比如Jekyll、Less、Bootstrap3,Foundation 5,Framework 7。开始泡在GitHub上学习开源框架和分享自己的学习经验，对原生JavaScript的理解和认知也提升了不少。</p>
-            </div>
-          </div>
-        </div>
-        <div class="row workDetails">
-          <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
-            <div class="workYear">
-              <span class="prevY">06,2014</span>
-              <span class="afterY">09,2010</span>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
-            <div class="arrowpart"></div>
-            <div class="exCon">
-              <h4>中山大学</h4>
-              <h5>软件工程本科生</h5>
-              <p>在四年的大学生活中我主要学习了比如操作系统，计算机网络，C/C++编程语言，数据结构，编译原理和软件工程导论等等。而在2013年10月开始自学前端开发，在毕业前自学并熟悉掌握了HTML，CSS和jQuery，并且也打下了不错的原生JavaScript基础。</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="reffernces" id="reffernces">
-      <div class="container">
-        <div class="heading">
-          <h2>项目</h2>
-          <p>下面包括了自己的开源项目，公司项目，推荐的网站等。</p>
-        </div>
-        <div class="row waterfall" data-col-min-width="300">
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                因为想要自己前端开发学习中的所得所想以及碰到的有用的前端开发工具分享出来，就通过GitHub Pages和Jekyll从零开始搭建出了自己的个人博客，包含了Vue.js教程、Gulp.js教程、Sublime Text、GitHub Pages搭建等等博客。
-              </p>
-              <h3>
-                            <a href="http://cody1991.github.io/">个人博客</a>
-                            </h3>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                一直保持着前端开发技术的学习和记录笔记，在这个项目中可以看到诸如Vue.js、Vue v2、Vuex、AngularJS、Node.js、Express、ECMAScript 6、HTML 5 Canvas、Flex 布局、PHP、WebPack和Gulp.js等等的学习记录。
-              </p>
-              <h3>
-                            <a href="https://github.com/cody1991/learn">个人前端开发学习记录</a>
-                            </h3>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                公司前端开发团队的GitHub Organizations，里面存放着日常开发中的Vue.js、Express、WebPack、Gulp.js等等的脚手架，以及前端开发模板和一份完整的公司前端开发规范，避免重复造轮子。
-              </p>
-              <h3>
-                            <a href="https://github.com/bear-front-end">bear-front-end</a>
-                            </h3>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                自己写的一套Gulp.js模板，使用Gulp.js这个自动化构造工具增强我们的前端开发流程。
-              </p>
-              <h3>
-                            <a href="https://github.com/cody1991/gulp-template">gulp-template</a>
-                            </h3>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                负责随遇直播APP产品分享出来的直播页面，主要使用了MediaElement.js、Socket.IO、iScroll 5、Swiper和CSS3动画等技术。兼容PC和移动端，用户可以观看直播，实时获取房间访客列表、用户评论列表和主播信息，也可以进行评论和点赞，与主播互动，观看回播视频。可以进入 <a href="http://api.impingo.me/miniSite/liveEndPage?sessionID=7b37cc506c536eea00&sessionToken=e1a15017c5&liveID=94336&userID=1495955&peerID=9728B66C7B326B407E48A61AE53B70DC">结束页面</a> ，选择观看热门直播。
-              </p>
-              <h3>
-                            <a href="http://api.impingo.me/miniSite/livePage?liveID=9311d5a9d">回播页面</a>
-                            </h3>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                公司官网PC版本和 <a href="http://www.impingo.me/homepage/m/index.html">移动版本</a> 的构建。使用Gulp.js、CSS3动画和百度地图等技术。
-              </p>
-              <h3>
-                            <a href="http://www.impingo.me/homepage/index.html">公司官网PC版本</a>
-                            </h3>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                负责公司随遇直播APP产品内的H5页面，负责公司随遇APP产品H5端的迷你版本，负责公司运营活动页面，比如 <a href="http://a.impingo.me/static/nice/nice14/index.html">主播生活日记系列</a> 、 <a href="http://wx.impingo.me/static/iceChallenge/index.html?source_iceChallenge">七夕湿身游戏</a>、 <a href="http://a.impingo.me/static/activity/singer/preselection.html">我是直播歌手投票页面</a>、 以及PV过百万的 元气校花H5活动 等等。主要日常使用的技术、库和框架有：Vue.js、vue-resource、vue-router、FastClick、Swiper、Animate.css、jQuery.lazyload和Lightbox等等。
-              </p>
-              <h3>
-                            <a href="http://a.impingo.me/activity/showRecommendH5?isFamous=1&openId=o4s3LjjIznRpPupFFoXwem4RD9Hs">元气校花示例页面1</a>
-                            <a href="http://a.impingo.me/activity/showRecommend32?isFamous=1&openId=o4s3LjjIznRpPupFFoXwem4RD9Hs#107">示例2</a>
-                            </h3>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 refBox">
-            <div class="refBoxcon">
-              <p>
-                使用WebGL(three.js框架)编写的3D网页项目。
-              </p>
-              <h3>
-                            <a href="https://github.com/cody1991/webgltang">WebGL项目</a>
-                            </h3>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="contact" id="contact">
-      <div class="container topCon">
-        <div class="heading">
           <h2>联系我</h2>
         </div>
       </div>
@@ -419,7 +247,7 @@
       <div class="container">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <h4>联系方式</h4>
-          <p> <i class="icon icon-envelope"></i><a>codytang@tencent.com</a></p>
+          <p> <i class="icon icon-envelope"></i><a>2538320826@qq.com</a></p>
           <p> <i class="icon icon-link"></i><a href="http://cody1991.github.io/index.html">http://cody1991.github.io/</a>
           </p>
         </div>
