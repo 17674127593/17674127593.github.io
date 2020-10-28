@@ -1,6 +1,6 @@
 <html>
 
-<body background="11.jpg">
+
 
 <table border="1" align="center" cellpadding="10" width="800">
     <tr>
