@@ -14,7 +14,7 @@
         <td>21</td>
         <th bgcolor="White">民族</th>
         <td>汉</td>
-        <td rowspan="3" width="100"<p><img border="0" src="2.jpg" />
+        <td rowspan="3" width="100"<p><img border="0" src="2.jpg"/>
     </p></td>
     </tr>
 
