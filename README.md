@@ -1,6 +1,6 @@
 <html>
 
-<body background=http://xqproduct.xiangqu.com/FsINqjPTpwGt5F043nsvEpS6Hs80?imageView2/2/w/800/q/90/format/jpg/800x1198/>
+<body background="11.jpg">
 
 <table border="1" align="center" cellpadding="10" width="800">
     <tr>
@@ -14,6 +14,8 @@
         <td>21</td>
         <th bgcolor="White">民族</th>
         <td>汉</td>
+        <td rowspan="3" width="100"<p><img border="0" src="2.jpg" />
+    </p></td>
     </tr>
 
     <tr>
@@ -38,7 +40,7 @@
         <th bgcolor="White">爱好</th>
         <td>篮球、音乐、阅读</td>
         <th bgcolor="White">籍贯</th>
-        <td>湖南</td>
+        <td>湖南省郴州</td>
         <th bgcolor="White">邮箱</th>
         <td colspan="2"<p><a  href="mailto:2538320826@qq.com?subject=Hello%20again">2538320826@qq.com </a></p></td>
     </tr>
@@ -56,20 +58,20 @@
         <th height="160" bgcolor="White">教育背景</th>
         <td colspan="6">
             <p>在校任职</p>
-            <p>2018.9-2019.7 班级生活委员</p>
-            <p>2019.9-至今   班级班长</p>
+            <p>2017.10-2018.6担任乒乓球社干事</p>
             <p>奖项</p>
             <p>2018学年获系级三好</p>
-            <p>2019学年获”优秀团员”称号</p>
+            
     </tr>
-
-    <tr>
+    
+     <tr>
         <th height="160" bgcolor="White">社会实践</th>
         <td colspan="6">
-            <p>2020.8-至今 参加了甲骨文培训机构培训，巩固了JAVA语言基础知识，并且实践能力页得到了提升;</p>
-            <p>2018.7-2018.9 暑假兼职从事电脑销售工作，荣获月季销售冠军。</p>
+            <p>2018.6-2018.9在高斯贝尔公司兼职仓库管理。</p>
+            <p>2019.7-2019.9 暑假兼职兼职家庭教师，帮助学生提高20多分的数学成绩。</p>
     </tr>
 
+ 
 </body>
 
 </html>
