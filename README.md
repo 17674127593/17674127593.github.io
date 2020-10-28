@@ -1,6 +1,6 @@
 <html>
 
-<body background=http://xqproduct.xiangqu.com/FsINqjPTpwGt5F043nsvEpS6Hs80?imageView2/2/w/800/q/90/format/jpg/800x1198/>
+<body background="11.jpg">
 
 <table border="1" align="center" cellpadding="10" width="800">
     <tr>
@@ -14,7 +14,7 @@
         <td>21</td>
         <th bgcolor="White">民族</th>
         <td>汉</td>
-        <td rowspan="3" width="100"<p><img border="0" src="kk.jpg" />
+        <td rowspan="3" width="100"<p><img border="0" src="2.jpg" />
     </p></td>
     </tr>
 
