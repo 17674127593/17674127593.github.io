@@ -41,7 +41,25 @@
                         <a href="#wrapper">首页</a>
                       </li>
                       <li class="menuItem">
-                        <a href="#aboutme">关于我</a>
+                        <a href="#aboutme">求职意向</a>
+                      </li>
+                      <li class="menuItem">
+                        <a href="#aboutme">个人信息</a>
+                      </li>
+                      <li class="menuItem">
+                        <a href="#aboutme">教育经历</a>
+                      </li>
+                      <li class="menuItem">
+                        <a href="#aboutme">实践经历</a>
+                      </li>
+                      <li class="menuItem">
+                        <a href="#aboutme">社团经历</a>
+                      </li>
+                      <li class="menuItem">
+                        <a href="#aboutme">技能</a>
+                      </li>
+                      <li class="menuItem">
+                        <a href="#aboutme">自我评价</a>
                       </li>
                       <li class="menuItem">
                         <a href="#contact">联系我</a>
@@ -60,9 +78,39 @@
         <div class="row">
           <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 aboutCont">
             <div class="heading clearfix">
-              <h2>关于我</h2>
+              <h2>个人信息</h2>
             </div>
             <div id="description">
+                <tr>
+        <th bgcolor="White">姓名</th>
+        <td> 付立鑫</td>
+        <th bgcolor="White">年龄</th>
+        <td>21</td>
+        <th bgcolor="White">民族</th>
+        <td>汉</td>
+            <tr>
+        <th bgcolor="White">出生日期</th>
+        <td>1999.09.15</td>
+        <th bgcolor=White">政治面貌</th>
+        <td>团员</td>
+        <th bgcolor="White">学历</th>
+        <td>本科</td>
+    </tr>
+
+    <tr>
+        <th bgcolor="White">专业</th>
+        <td>信息与计算科学</td>
+        <th bgcolor="White">毕业学校</th>
+        <td>湖南工商大学北津学院</td>
+        <th bgcolor="White">邮编</th>
+        <td>422300</td>
+    </tr>
+
+    <tr>
+        <th bgcolor="White">爱好</th>
+        <td>篮球、音乐、阅读</td>
+        <th bgcolor="White">籍贯</th>
+        <td>湖南</td>
               <p>
                 我是来自湖南工商大学北津学院信息与计算科学的应届毕业生。
               </p>
@@ -75,6 +123,7 @@
         </div>
       </div>
     </section>
+    
     <section class="technical" id="technical">
       <div class="container">
         <div class="heading">
@@ -88,7 +137,7 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
           <h4>联系方式</h4>
           <p> <i class="icon icon-envelope"></i><a>2538320826@qq.com</a></p>
-          <p> <i class="icon icon-link"></i><a href="http://cody1991.github.io/index.html">http://cody1991.github.io/</a>
+          <p> <i class="icon icon-link"></i><a href="http://17674127593.github.io/index.html">http://17674127593.github.io/</a>
           </p>
         </div>
       </div>
@@ -96,7 +145,7 @@
     <section class="footer" id="footer">
       <div class="container">
         <ul>
-          <li><a href="https://github.com/cody1991"><i class="icon icon-github icon-2x"></i></a>
+          <li><a href="https://github.com/17674127593"><i class="icon icon-github icon-2x"></i></a>
           </li>
         </ul>
         <span class="totop"><i class="icon icon-chevron-up"></i>
