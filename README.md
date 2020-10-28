@@ -1,6 +1,6 @@
 <html>
 
-
+<body background=http://xqproduct.xiangqu.com/FsINqjPTpwGt5F043nsvEpS6Hs80?imageView2/2/w/800/q/90/format/jpg/800x1198/>
 
 <table border="1" align="center" cellpadding="10" width="800">
     <tr>
@@ -14,12 +14,13 @@
         <td>21</td>
         <th bgcolor="White">民族</th>
         <td>汉</td>
-        
+        <td rowspan="3" width="100"<p><img border="0" src="kk.jpg" />
+    </p></td>
     </tr>
 
     <tr>
         <th bgcolor="White">出生日期</th>
-        <td>1999.03.22</td>
+        <td>1999.09.15</td>
         <th bgcolor=White">政治面貌</th>
         <td>团员</td>
         <th bgcolor="White">学历</th>
@@ -39,7 +40,7 @@
         <th bgcolor="White">爱好</th>
         <td>篮球、音乐、阅读</td>
         <th bgcolor="White">籍贯</th>
-        <td>湖南省郴州</td>
+        <td>湖南</td>
         <th bgcolor="White">邮箱</th>
         <td colspan="2"<p><a  href="mailto:2538320826@qq.com?subject=Hello%20again">2538320826@qq.com </a></p></td>
     </tr>
